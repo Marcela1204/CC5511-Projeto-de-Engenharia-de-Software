@@ -1,7 +1,7 @@
 <div align="center">
 
 # C.M.B. - CAFÉ, MUSCULAÇÃO E BISCOITO
-## PROJETO ENGENHARIA DE SOFTWARE
+## PROJETO DE ENGENHARIA DE SOFTWARE
 
 </div>
 <br>
