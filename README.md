@@ -10,12 +10,12 @@
 Projeto criado por:
 * [Marcela Nalesso](https://github.com/Marcela1204) | RA: 222220113
 * [Mariane S. Carvalho](https://github.com/carvalhosmari) | RA: 221231053
-* Camila | RA: 222220378
-* Bia | RA: 222220410
-* Lucas | RA: 221230329
+* [Camila Laurindo](https://github.com/camilareixs) | RA: 222220378
+* [Beatriz Emerenciano](https://github.com/Beatriz-emerenciano) | RA: 222220410
+* [Lucas Kerr](https://github.com/Adelgrin) | RA: 221230329
 
-* Link do git hub: 
-* Link do git hub2: 
+* Link do git hub: https://github.com/Marcela1204/CC5511-Projeto-de-Engenharia-de-Software
+* Link do git hub2: https://github.com/Marcela1204/CC5511-Projeto-de-Engenharia-de-Software.git
 
 ### Apresentação do problema
 O problema apresentado envolve a
